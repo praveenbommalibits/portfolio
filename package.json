@@ -2,7 +2,7 @@
   "name": "praveen_insight",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://praveenbommali.github.io/praveen_insight",
+  "homepage": "https://praveenbommali.github.io/portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
