@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/praveen_insight/static/css/main.87b4974f.chunk.css",
+    "main.js": "/praveen_insight/static/js/main.8f4bf920.chunk.js",
+    "main.js.map": "/praveen_insight/static/js/main.8f4bf920.chunk.js.map",
+    "runtime-main.js": "/praveen_insight/static/js/runtime-main.8e41f26e.js",
+    "runtime-main.js.map": "/praveen_insight/static/js/runtime-main.8e41f26e.js.map",
+    "static/js/2.653eeb3f.chunk.js": "/praveen_insight/static/js/2.653eeb3f.chunk.js",
+    "static/js/2.653eeb3f.chunk.js.map": "/praveen_insight/static/js/2.653eeb3f.chunk.js.map",
+    "index.html": "/praveen_insight/index.html",
+    "precache-manifest.642bd19aeacea801a48d6dfc28af9fc1.js": "/praveen_insight/precache-manifest.642bd19aeacea801a48d6dfc28af9fc1.js",
+    "service-worker.js": "/praveen_insight/service-worker.js",
+    "static/css/main.87b4974f.chunk.css.map": "/praveen_insight/static/css/main.87b4974f.chunk.css.map",
+    "static/js/2.653eeb3f.chunk.js.LICENSE.txt": "/praveen_insight/static/js/2.653eeb3f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e41f26e.js",
+    "static/js/2.653eeb3f.chunk.js",
+    "static/css/main.87b4974f.chunk.css",
+    "static/js/main.8f4bf920.chunk.js"
+  ]
+}
