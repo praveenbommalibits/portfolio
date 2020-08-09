@@ -6,7 +6,7 @@ export const SideNav = ({ handleSectionClick }) => {
     return (
         <div className="sidenav">
             <img
-                src="src/IMG_0585.jpg"
+                src="https://github.com/praveenbommalibits/project-media/blob/master/profile/praveenb.png"
                 className="avatar"
                 alt="avatar"
             />
