@@ -19,6 +19,16 @@ export const projects = {
             name: "mock api services  ",
             description: "mock server",
             link: "NA"
+        },
+        {
+            name: "car price predictions app",
+            description: "Car Price Prediction project focus on prediction of car price and deploy the model in heroku server",
+            link: "https://github.com/praveenbommalibits/car-price-prediction"
+        },
+        {
+            name: "salary prediction app",
+            description: "Salary Prediction project focus on prediction of salary and deploy the model in heroku server",
+            link: "https://github.com/praveenbommalibits/salary-prediction-app"
         }
     ]
 }
